@@ -1,0 +1,8 @@
+{
+  "name": "Amplified",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "35727e3d"
+}
